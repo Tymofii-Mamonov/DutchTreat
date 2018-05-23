@@ -1,0 +1,14 @@
+C:\Users\tmamo\source\repos\DutchTreat\DutchTreat
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DutchTreat
+--content-root=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Pages\Error.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Pages\_ViewStart.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\Account\Login.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\App\About.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\App\Contact.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\App\Index.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\App\Shop.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\Shared\_Layout.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\_ViewImports.cshtml
+--file=C:\Users\tmamo\source\repos\DutchTreat\DutchTreat\Views\_ViewStart.cshtml
